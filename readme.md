@@ -44,7 +44,7 @@ Entry Categories (Vulnerability, Ransomware, Espionage, Zero Day, Data Breach, T
 - Entry Categories
 
 
-# Entities
+### Entities
 List of CTI entities and their related article 
 Entity Categories (Organisation, Sector, Actor, Country, Malware, CVE, Vendor, IP Address, Hash, Domain)
 Entity Origin = RSS4CTI will attempt to associate an Entity with a parent entity that's the most relevant for the article (e.g. Country > Actor, Actor > Malware). The number of duplicate relationships could increase confidence.
