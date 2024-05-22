@@ -27,6 +27,7 @@ List of RSS feeds and their feed URL's
 - Feed Name
 - Feed Description
 - Feed URL
+- Refresh Interval
 
 ### Entries
 List of feed entries
