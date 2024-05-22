@@ -31,6 +31,10 @@ a {
     padding-inline: 10px;
 }
 
+.menubar-item:hover, .menubar-item-right:hover {
+    background-color: rgb(30, 30, 30);
+}
+
 #feed {
     width: 100%;
     display:flex;
@@ -122,6 +126,24 @@ a {
     position: absolute;
     margin-left:auto;
     float: right;
+}
+
+.load-more {
+    cursor: default;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    filter: opacity(1);
+    margin: auto;
+    background-color: rgb(40, 40, 40);
+    border-radius: 100px;
+    margin-top: 10px;
+    padding: 5px;
+    padding-inline: 10px;
+    text-align: center;
 }
 
 #footer {
